@@ -1,0 +1,21 @@
+
+
+<svg viewport-fill="fb-cyan">
+  <image href="1.png"/>
+  
+  <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
+   <!-- <rect x="$-4" y="-110" width="8" height="110" fill="#5d935c" />--> 
+    <image href="2.png" x="$-150" y="$-150" id="Flor"/>
+   
+  </g>
+   
+  <rect x="78%" y="5%" width="54" height="6%" fill="white"/>
+   <rect x="75%" y="90%" width="67" height="6%" fill="white"/>
+
+  <text id="clock-label" x="87%" y="10%" fill="black" font-size="20" font-family="System-Bold"
+      text-anchor="middle" text-length="20">00:00:00</text>
+
+      <text fill="black" id="heart" font-family="System-Bold" font-size="20"
+      text-length="20" x="75%" y="95%">0 bpm</text>
+
+</svg>
